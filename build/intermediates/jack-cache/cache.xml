@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Simon\.android\build-cache\1787182e6a1b65635a9b2ac812e5f803da9b3bfe\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-558f1b8ab8eca9819286ff0b189b110426304e9c.jar" />
+    </item>
+    <item
+        jar="E:\code_network\LottoView\loopview\build\intermediates\bundles\default\classes.jar"
+        revision="25.0.0"
+        sha1="0bdfdb9cf70dfe1765f2966c7876ea5df8797b96">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e67937d1ca309a4c63cf569c01569ea37d9e293e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\f5977a4b5dd943c52ec6286c31651a44fd8327dc\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ca9dd9f2d8c246eae4345fb348ba2f602eb0b6ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\4f3563bc9f9a5f6f7797b1a4fff335e11c944779\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-113c319e1f2b48347570b8501b42b91bcfe0fc1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\9a4bc656552dd64a498b6f712907d5e191687cea\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d7e15eea861067ee3cf72087ee653cb3accbbb7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\b8b68cf1ee7a84ddbac09851dd7ab59eff72199e\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-658672ae64c4296eb32135eb811efb10e0885527.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\ca85497323918b610d097bbbb74fac2989bc7c31\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-10a6b62021b8206ee42d70ab42e5dc06d5fb688b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\138f7de65f6f93f4b998b2a0572c18e3155f7a58\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0fb423ad9cc079b3efef8458cc3d4c759293acc2.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.1.0-9aa5bb99b629e99329d08fffbd5c3e3b3f1378cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\bec97fa5f4d29d6de7b6db7f2f0099c971226a31\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-82890fa8b8503737da63006ac2bf9118b277e908.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\.android\build-cache\fffcf870ee90078039c100b29453084b4efcab93\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\code_network\LottoView\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d064f26fedf0a23c5b4735581ed710e82baad8ec.jar" />
+    </item>
+
+</items>
